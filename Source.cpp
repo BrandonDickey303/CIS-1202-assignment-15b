@@ -38,7 +38,7 @@ int main() {
 
 	cout << "\t" << b << " : " << half(b) << "\n";
 
-	cout << "\t" << c << " : " << half(c) << "\n"
+	cout << "\t" << c << " : " << half(c) << "\n";
 
 
 }
