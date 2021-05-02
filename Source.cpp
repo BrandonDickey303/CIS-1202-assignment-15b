@@ -8,7 +8,7 @@ using namespace std;
 
 template <typename M>
 
-M half(T val) {
+M half(M val) {
 
 	M res;
 
