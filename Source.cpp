@@ -23,3 +23,12 @@ M half(T val) {
 	}
 	return res;
 }
+
+int main() {
+
+	int a = 10;
+
+	float b = 2.36f;
+
+	double c = 5.468416;
+}
