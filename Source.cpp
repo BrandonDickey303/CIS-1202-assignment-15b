@@ -31,4 +31,14 @@ int main() {
 	float b = 2.36f;
 
 	double c = 5.468416;
+
+	cout << "Half values of : \n";
+
+	cout << "\t" << a << " : " << half(a) << "\n";
+
+	cout << "\t" << b << " : " << half(b) << "\n";
+
+	cout << "\t" << c << " : " << half(c) << "\n"
+
+
 }
